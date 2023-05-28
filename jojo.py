@@ -1,0 +1,2 @@
+a = "ssaosjkk"
+print(a)
